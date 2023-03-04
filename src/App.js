@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <Body change="handleSearchOnChange" search="handleOnSearch" />
+      <Body />
     </div>
   );
 }
